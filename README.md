@@ -3,8 +3,8 @@
 
 <!-- [![Anurag's GitHub stats] -->
 <div>
-  <img alt="My Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=mkopaes&show_icons=true&theme=neon" />
-  <img alt="Most used languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkopaes&layout=compact"/>
+  <img alt="My Stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=mkopaes&show_icons=true&theme=neon" />
+  <img alt="Most used languages" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkopaes&layout=compact&theme=neon"/>
 </div>
 
 <!--
