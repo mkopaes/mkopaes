@@ -2,7 +2,10 @@
 ## Hi there 👋
 
 <!-- [![Anurag's GitHub stats] -->
-<img src="https://github-readme-stats.vercel.app/api?username=mkopaes&show_icons=true&theme=neon"/>
+<div>
+  <img alt="My Stats" width="39%" src="https://github-readme-stats.vercel.app/api?username=mkopaes&show_icons=true&theme=neon" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkopaes&layout=compact"/>
+</div>
 
 <!--
 **mkopaes/mkopaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
