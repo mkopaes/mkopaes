@@ -1,6 +1,4 @@
 # I'm Murilo/Syeth
-## Hi there 👋
-
 <!-- [![Anurag's GitHub stats] -->
 <div>
   <img alt="My Stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mkopaes&show_icons=true&theme=neon" />
