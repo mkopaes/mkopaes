@@ -2,7 +2,7 @@
 <!-- [![Anurag's GitHub stats] -->
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkopaes&show_icons=true&theme=neon" alt="My Stats"/>
-  <img height="180em" width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkopaes&layout=compact&theme=neon" alt="Most used languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkopaes&layout=compact&theme=neon" alt="Most used languages"/>
 </div>
 
 <div style="display: inline_block"><br>
