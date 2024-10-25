@@ -13,17 +13,17 @@
   <img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">  
- 
+  <img align="right" height="178em" src="https://cdn.discordapp.com/attachments/889523930342252584/1299201830722605128/ezgif-5-a9bfb6acb9.gif?ex=671c577e&is=671b05fe&hm=bdd0e4d3d72f33af34ad33df47dd7db87b72e4cd30c925301564fe0fef44e75e&"/>
 </div>
 
 ##
+
 <div style="display: inline_block">
   <ul>
     <li>🤖 Pronouns: He/him</li>
     <li>🚀 I’m currently learning JavaScript, VueJS and PHP</li>
     <li>🎲 Games/RPG/Boardgames enthusiast</li>
   </ul>   
-  <img align="center" height="178em" src="https://cdn.discordapp.com/attachments/889523930342252584/1299201830722605128/ezgif-5-a9bfb6acb9.gif?ex=671c577e&is=671b05fe&hm=bdd0e4d3d72f33af34ad33df47dd7db87b72e4cd30c925301564fe0fef44e75e&"/>
 </div>
 
 ##
