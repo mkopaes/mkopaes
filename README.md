@@ -1,6 +1,5 @@
-# I'm Murilo/Syeth
-<!-- [![Anurag's GitHub stats] -->
 <div>
+  <!-- [![Anurag's GitHub stats] -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkopaes&show_icons=true&theme=neon" alt="My Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkopaes&layout=compact&theme=neon" alt="Most used languages"/>
 </div>
@@ -16,8 +15,14 @@
 
 ##
 
-<div>
-  - 🌱 I’m currently learning JavaScript, VueJS and PHP
+## Hi stranger, I'm Murilo/Syeth
+<div class="info">
+  <ul>
+    <li>🤖 Pronouns: He/him</li>
+    <li>🚀 I’m currently learning JavaScript, VueJS and PHP</li>
+    <li>🎲 Games/RPG/Boardgames enthusiast</li>
+  </ul> 
+  <img align="right" height="180em" src="https://cdn.discordapp.com/attachments/889523930342252584/1299201830722605128/ezgif-5-a9bfb6acb9.gif?ex=671c577e&is=671b05fe&hm=bdd0e4d3d72f33af34ad33df47dd7db87b72e4cd30c925301564fe0fef44e75e&"/>
 </div>
 
 ##
@@ -38,6 +43,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
