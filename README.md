@@ -3,7 +3,7 @@
 
 <!-- [![Anurag's GitHub stats] -->
 <div>
-  <img alt="My Stats" width="69%" src="https://github-readme-stats.vercel.app/api?username=mkopaes&show_icons=true&theme=neon" />
+  <img alt="My Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=mkopaes&show_icons=true&theme=neon" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkopaes&layout=compact"/>
 </div>
 
